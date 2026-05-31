@@ -1,4 +1,4 @@
-ƒ# Distributed Rate Limiter
+# Distributed Rate Limiter
 
 A production-inspired rate limiter built from scratch in Node.js — no libraries, no shortcuts. Implements the **Token Bucket algorithm** with Redis as shared state across multiple server instances.
 
