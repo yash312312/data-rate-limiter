@@ -1,4 +1,4 @@
-# Distributed Rate Limiter
+ƒ# Distributed Rate Limiter
 
 A production-inspired rate limiter built from scratch in Node.js — no libraries, no shortcuts. Implements the **Token Bucket algorithm** with Redis as shared state across multiple server instances.
 
@@ -134,8 +134,8 @@ docker exec -it redis redis-cli ping   # → PONG
 ### Run the App
 
 ```bash
-git clone https://github.com/y/rate-limiter.git
-cd rate-limiter
+git clone https://github.com/yash312312/data-rate-limiter.git
+cd data-rate-limiter
 npm install
 npm start
 ```
