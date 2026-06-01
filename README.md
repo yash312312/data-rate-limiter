@@ -52,9 +52,6 @@ src/
 │   ├── api.js              ← Protected endpoints (/api/hello, /api/data)
 │   └── home.js             ← Live browser UI to test rate limiting
 └── server.js               ← Wires everything together
-tests/
-└── rateLimiter.test.js     ← Unit + integration tests (Jest + Supertest)
-```
 
 ---
 
